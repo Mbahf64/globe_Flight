@@ -1,0 +1,978 @@
+[
+  {
+    "flight_number": "AF118",
+    "company": "Air France",
+    "logo": "https://example.com/logos/airfrance.png",
+    "departureCity": "Amsterdam Schiphol Airport - AMS",
+    "arrivalCity": "New York John F. Kennedy - JFK",
+    "departureTime": "09:15",
+    "arrivalTime": "13:15",
+    "classType": "First Class"
+  },
+  {
+    "flight_number": "AF119",
+    "company": "Air France",
+    "logo": "https://example.com/logos/airfrance.png",
+    "departureCity": "Amsterdam Schiphol Airport - AMS",
+    "arrivalCity": "New York John F. Kennedy - JFK",
+    "departureTime": "10:30",
+    "arrivalTime": "14:30",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "AF120",
+    "company": "Air France",
+    "logo": "https://example.com/logos/airfrance.png",
+    "departureCity": "Amsterdam Schiphol Airport - AMS",
+    "arrivalCity": "New York John F. Kennedy - JFK",
+    "departureTime": "12:15",
+    "arrivalTime": "16:15",
+    "classType": "Business"
+  },
+  {
+    "flight_number": "AF121",
+    "company": "Air France",
+    "logo": "https://example.com/logos/airfrance.png",
+    "departureCity": "Amsterdam Schiphol Airport - AMS",
+    "arrivalCity": "New York John F. Kennedy - JFK",
+    "departureTime": "14:30",
+    "arrivalTime": "18:30",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "AF122",
+    "company": "Air France",
+    "logo": "https://example.com/logos/airfrance.png",
+    "departureCity": "Amsterdam Schiphol Airport - AMS",
+    "arrivalCity": "New York John F. Kennedy - JFK",
+    "departureTime": "15:00",
+    "arrivalTime": "19:00",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "AF123",
+    "company": "Air France",
+    "logo": "https://example.com/logos/airfrance.png",
+    "departureCity": "Amsterdam Schiphol Airport - AMS",
+    "arrivalCity": "New York John F. fKennedy - JFK",
+    "departureTime": "16:30",
+    "arrivalTime": "20:30",
+    "classType": "Business"
+  },
+
+  {
+    "flight_number": "EK564",
+    "company": "Emirates",
+    "logo": "https://example.com/logos/emirates.png",
+    "departureCity": "Dubai International - DXB",
+    "arrivalCity": "Los Angeles International - LAX",
+    "departureTime": "16:00",
+    "arrivalTime": "18:30",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "EK565",
+    "company": "Emirates",
+    "logo": "https://example.com/logos/emirates.png",
+    "departureCity": "Dubai International - DXB",
+    "arrivalCity": "Los Angeles International - LAX",
+    "departureTime": "18:30",
+    "arrivalTime": "21:00",
+    "classType": "Business"
+  },
+  {
+    "flight_number": "QR902",
+    "company": "Qatar Airways",
+    "logo": "https://example.com/logos/qatar-airways.png",
+    "departureCity": "Dubai International - DXB",
+    "arrivalCity": "Los Angeles International - LAX",
+    "departureTime": "19:00",
+    "arrivalTime": "21:30",
+    "classType": "First Class"
+  },
+  {
+    "flight_number": "UA123",
+    "company": "United Airlines",
+    "logo": "https://example.com/logos/united-airlines.png",
+    "departureCity": "Dubai International - DXB",
+    "arrivalCity": "Los Angeles International - LAX",
+    "departureTime": "20:00",
+    "arrivalTime": "22:30",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "BA310",
+    "company": "British Airways",
+    "logo": "https://example.com/logos/british-airways.png",
+    "departureCity": "Dubai International - DXB",
+    "arrivalCity": "Los Angeles International - LAX",
+    "departureTime": "22:00",
+    "arrivalTime": "00:30",
+    "classType": "Business"
+  },
+  {
+    "flight_number": "DL234",
+    "company": "Delta Airlines",
+    "logo": "https://example.com/logos/delta.png",
+    "departureCity": "Atlanta Hartsfield Airport - ATL",
+    "arrivalCity": "Chicago O'Hare - ORD",
+    "departureTime": "13:15",
+    "arrivalTime": "14:50",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "DL235",
+    "company": "Delta Airlines",
+    "logo": "https://example.com/logos/delta.png",
+    "departureCity": "Atlanta Hartsfield Airport - ATL",
+    "arrivalCity": "Chicago O'Hare - ORD",
+    "departureTime": "14:45",
+    "arrivalTime": "16:20",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "AA150",
+    "company": "American Airlines",
+    "logo": "https://example.com/logos/american-airlines.png",
+    "departureCity": "Atlanta Hartsfield Airport - ATL",
+    "arrivalCity": "Chicago O'Hare - ORD",
+    "departureTime": "15:30",
+    "arrivalTime": "17:05",
+    "classType": "First Class"
+  },
+  {
+    "flight_number": "UA255",
+    "company": "United Airlines",
+    "logo": "https://example.com/logos/united-airlines.png",
+    "departureCity": "Atlanta Hartsfield Airport - ATL",
+    "arrivalCity": "Chicago O'Hare - ORD",
+    "departureTime": "16:00",
+    "arrivalTime": "17:35",
+    "classType": "Business"
+  },
+  {
+    "flight_number": "AA167",
+    "company": "American Airlines",
+    "logo": "https://example.com/logos/american-airlines.png",
+    "departureCity": "Atlanta Hartsfield Airport - ATL",
+    "arrivalCity": "Chicago O'Hare - ORD",
+    "departureTime": "17:15",
+    "arrivalTime": "18:50",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "QR234",
+    "company": "Qatar Airways",
+    "logo": "https://example.com/logos/qatar-airways.png",
+    "departureCity": "Doha Hamad Airport - DOH",
+    "arrivalCity": "New York John F. Kennedy - JFK",
+    "departureTime": "15:45",
+    "arrivalTime": "19:10",
+    "classType": "Business"
+  },
+  {
+    "flight_number": "QR235",
+    "company": "Qatar Airways",
+    "logo": "https://example.com/logos/qatar-airways.png",
+    "departureCity": "Doha Hamad Airport - DOH",
+    "arrivalCity": "New York John F. Kennedy - JFK",
+    "departureTime": "17:00",
+    "arrivalTime": "20:25",
+    "classType": "First Class"
+  },
+  {
+    "flight_number": "EK222",
+    "company": "Emirates",
+    "logo": "https://example.com/logos/emirates.png",
+    "departureCity": "Doha Hamad Airport - DOH",
+    "arrivalCity": "New York John F. Kennedy - JFK",
+    "departureTime": "18:00",
+    "arrivalTime": "21:25",
+    "classType": "Business"
+  },
+  {
+    "flight_number": "EY330",
+    "company": "Etihad Airways",
+    "logo": "https://example.com/logos/etihad.png",
+    "departureCity": "Doha Hamad Airport - DOH",
+    "arrivalCity": "New York John F. Kennedy - JFK",
+    "departureTime": "19:00",
+    "arrivalTime": "22:25",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "TK005",
+    "company": "Turkish Airlines",
+    "logo": "https://example.com/logos/turkish-airlines.png",
+    "departureCity": "Doha Hamad Airport - DOH",
+    "arrivalCity": "New York John F. Kennedy - JFK",
+    "departureTime": "20:30",
+    "arrivalTime": "23:55",
+    "classType": "Business"
+  },
+  {
+    "flight_number": "BA283",
+    "company": "British Airways",
+    "logo": "https://example.com/logos/british-airways.png",
+    "departureCity": "London Heathrow Airport - LHR",
+    "arrivalCity": "San Francisco International - SFO",
+    "departureTime": "12:00",
+    "arrivalTime": "15:30",
+    "classType": "First Class"
+  },
+  {
+    "flight_number": "BA285",
+    "company": "British Airways",
+    "logo": "https://example.com/logos/british-airways.png",
+    "departureCity": "London Heathrow Airport - LHR",
+    "arrivalCity": "San Francisco International - SFO",
+    "departureTime": "14:00",
+    "arrivalTime": "17:30",
+    "classType": "First Class"
+  },
+  {
+    "flight_number": "AA108",
+    "company": "American Airlines",
+    "logo": "https://example.com/logos/american-airlines.png",
+    "departureCity": "London Heathrow Airport - LHR",
+    "arrivalCity": "San Francisco International - SFO",
+    "departureTime": "15:30",
+    "arrivalTime": "19:00",
+    "classType": "Business"
+  },
+  {
+    "flight_number": "UA888",
+    "company": "United Airlines",
+    "logo": "https://example.com/logos/united-airlines.png",
+    "departureCity": "London Heathrow Airport - LHR",
+    "arrivalCity": "San Francisco International - SFO",
+    "departureTime": "17:00",
+    "arrivalTime": "20:30",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "DL245",
+    "company": "Delta Airlines",
+    "logo": "https://example.com/logos/delta.png",
+    "departureCity": "London Heathrow Airport - LHR",
+    "arrivalCity": "San Francisco International - SFO",
+    "departureTime": "18:45",
+    "arrivalTime": "22:15",
+    "classType": "Business"
+  },
+  {
+    "flight_number": "LH402",
+    "company": "Lufthansa",
+    "logo": "https://example.com/logos/lufthansa.png",
+    "departureCity": "Frankfurt Airport - FRA",
+    "arrivalCity": "Los Angeles International - LAX",
+    "departureTime": "10:30",
+    "arrivalTime": "14:45",
+    "classType": "Business"
+  },
+  {
+    "flight_number": "LH403",
+    "company": "Lufthansa",
+    "logo": "https://example.com/logos/lufthansa.png",
+    "departureCity": "Frankfurt Airport - FRA",
+    "arrivalCity": "Los Angeles International - LAX",
+    "departureTime": "12:30",
+    "arrivalTime": "16:45",
+    "classType": "Business"
+  },
+  {
+    "flight_number": "AA201",
+    "company": "American Airlines",
+    "logo": "https://example.com/logos/american-airlines.png",
+    "departureCity": "Frankfurt Airport - FRA",
+    "arrivalCity": "Los Angeles International - LAX",
+    "departureTime": "14:30",
+    "arrivalTime": "18:45",
+    "classType": "First Class"
+  },
+  {
+    "flight_number": "UA450",
+    "company": "United Airlines",
+    "logo": "https://example.com/logos/united-airlines.png",
+    "departureCity": "Frankfurt Airport - FRA",
+    "arrivalCity": "Los Angeles International - LAX",
+    "departureTime": "16:00",
+    "arrivalTime": "20:15",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "BA221",
+    "company": "British Airways",
+    "logo": "https://example.com/logos/british-airways.png",
+    "departureCity": "Frankfurt Airport - FRA",
+    "arrivalCity": "Los Angeles International - LAX",
+    "departureTime": "18:00",
+    "arrivalTime": "22:15",
+    "classType": "Business"
+  },
+
+  {
+    "flight_number": "AF1182",
+    "company": "Air France",
+    "logo": "https://example.com/logos/air-france.png",
+    "departureCity": "Paris Charles de Gaulle - CDG",
+    "arrivalCity": "Toronto Pearson International - YYZ",
+    "departureTime": "17:30",
+    "arrivalTime": "19:10",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "AF1182",
+    "company": "KLM",
+    "logo": "https://example.com/logos/klm.png",
+    "departureCity": "Paris Charles de Gaulle - CDG",
+    "arrivalCity": "Toronto Pearson International - YYZ",
+    "departureTime": "18:15",
+    "arrivalTime": "19:55",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "AF1182",
+    "company": "British Airways",
+    "logo": "https://example.com/logos/british-airways.png",
+    "departureCity": "Paris Charles de Gaulle - CDG",
+    "arrivalCity": "Toronto Pearson International - YYZ",
+    "departureTime": "19:00",
+    "arrivalTime": "20:40",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "AF1182",
+    "company": "Air Canada",
+    "logo": "https://example.com/logos/air-canada.png",
+    "departureCity": "Paris Charles de Gaulle - CDG",
+    "arrivalCity": "Toronto Pearson International - YYZ",
+    "departureTime": "19:45",
+    "arrivalTime": "21:25",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "AF1182",
+    "company": "Lufthansa",
+    "logo": "https://example.com/logos/lufthansa.png",
+    "departureCity": "Paris Charles de Gaulle - CDG",
+    "arrivalCity": "Toronto Pearson International - YYZ",
+    "departureTime": "20:30",
+    "arrivalTime": "22:10",
+    "classType": "Economy"
+  },
+
+  {
+    "flight_number": "CX884",
+    "company": "Cathay Pacific",
+    "logo": "https://example.com/logos/cathay-pacific.png",
+    "departureCity": "Hong Kong International - HKG",
+    "arrivalCity": "San Francisco International - SFO",
+    "departureTime": "18:00",
+    "arrivalTime": "18:45",
+    "classType": "First Class"
+  },
+  {
+    "flight_number": "CX884",
+    "company": "Singapore Airlines",
+    "logo": "https://example.com/logos/singapore-airlines.png",
+    "departureCity": "Hong Kong International - HKG",
+    "arrivalCity": "San Francisco International - SFO",
+    "departureTime": "18:45",
+    "arrivalTime": "19:30",
+    "classType": "First Class"
+  },
+  {
+    "flight_number": "CX884",
+    "company": "Emirates",
+    "logo": "https://example.com/logos/emirates.png",
+    "departureCity": "Hong Kong International - HKG",
+    "arrivalCity": "San Francisco International - SFO",
+    "departureTime": "19:30",
+    "arrivalTime": "20:15",
+    "classType": "First Class"
+  },
+  {
+    "flight_number": "CX884",
+    "company": "Qantas Airways",
+    "logo": "https://example.com/logos/qantas.png",
+    "departureCity": "Hong Kong International - HKG",
+    "arrivalCity": "San Francisco International - SFO",
+    "departureTime": "20:15",
+    "arrivalTime": "21:00",
+    "classType": "First Class"
+  },
+  {
+    "flight_number": "CX884",
+    "company": "British Airways",
+    "logo": "https://example.com/logos/british-airways.png",
+    "departureCity": "Hong Kong International - HKG",
+    "arrivalCity": "San Francisco International - SFO",
+    "departureTime": "21:00",
+    "arrivalTime": "21:45",
+    "classType": "First Class"
+  },
+
+  {
+    "flight_number": "JL39",
+    "company": "Japan Airlines",
+    "logo": "https://example.com/logos/japan-airlines.png",
+    "departureCity": "Tokyo Narita Airport - NRT",
+    "arrivalCity": "New York John F. Kennedy - JFK",
+    "departureTime": "19:10",
+    "arrivalTime": "21:30",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "JL39",
+    "company": "ANA",
+    "logo": "https://example.com/logos/ana.png",
+    "departureCity": "Tokyo Narita Airport - NRT",
+    "arrivalCity": "New York John F. Kennedy - JFK",
+    "departureTime": "19:50",
+    "arrivalTime": "22:10",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "JL39",
+    "company": "Singapore Airlines",
+    "logo": "https://example.com/logos/singapore-airlines.png",
+    "departureCity": "Tokyo Narita Airport - NRT",
+    "arrivalCity": "New York John F. Kennedy - JFK",
+    "departureTime": "20:30",
+    "arrivalTime": "22:50",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "JL39",
+    "company": "Cathay Pacific",
+    "logo": "https://example.com/logos/cathay-pacific.png",
+    "departureCity": "Tokyo Narita Airport - NRT",
+    "arrivalCity": "New York John F. Kennedy - JFK",
+    "departureTime": "21:10",
+    "arrivalTime": "23:30",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "JL39",
+    "company": "Qantas Airways",
+    "logo": "https://example.com/logos/qantas.png",
+    "departureCity": "Tokyo Narita Airport - NRT",
+    "arrivalCity": "New York John F. Kennedy - JFK",
+    "departureTime": "22:00",
+    "arrivalTime": "23:50",
+    "classType": "Economy"
+  },
+
+  {
+    "flight_number": "SQ323",
+    "company": "Singapore Airlines",
+    "logo": "https://example.com/logos/singapore-airlines.png",
+    "departureCity": "Singapore Changi Airport - SIN",
+    "arrivalCity": "New York John F. Kennedy - JFK",
+    "departureTime": "20:45",
+    "arrivalTime": "22:30",
+    "classType": "Business"
+  },
+  {
+    "flight_number": "SQ323",
+    "company": "Qatar Airways",
+    "logo": "https://example.com/logos/qatar-airways.png",
+    "departureCity": "Singapore Changi Airport - SIN",
+    "arrivalCity": "New York John F. Kennedy - JFK",
+    "departureTime": "21:30",
+    "arrivalTime": "23:15",
+    "classType": "Business"
+  },
+  {
+    "flight_number": "SQ323",
+    "company": "Emirates",
+    "logo": "https://example.com/logos/emirates.png",
+    "departureCity": "Singapore Changi Airport - SIN",
+    "arrivalCity": "New York John F. Kennedy - JFK",
+    "departureTime": "22:15",
+    "arrivalTime": "23:50",
+    "classType": "Business"
+  },
+  {
+    "flight_number": "SQ323",
+    "company": "Delta Airlines",
+    "logo": "https://example.com/logos/delta.png",
+    "departureCity": "Singapore Changi Airport - SIN",
+    "arrivalCity": "New York John F. Kennedy - JFK",
+    "departureTime": "23:00",
+    "arrivalTime": "00:45",
+    "classType": "Business"
+  },
+  {
+    "flight_number": "SQ323",
+    "company": "Lufthansa",
+    "logo": "https://example.com/logos/lufthansa.png",
+    "departureCity": "Singapore Changi Airport - SIN",
+    "arrivalCity": "New York John F. Kennedy - JFK",
+    "departureTime": "23:45",
+    "arrivalTime": "02:15",
+    "classType": "Business"
+  },
+
+  {
+    "flight_number": "QF127",
+    "company": "Qantas Airways",
+    "logo": "https://example.com/logos/qantas.png",
+    "departureCity": "Sydney Kingsford Smith - SYD",
+    "arrivalCity": "Los Angeles International - LAX",
+    "departureTime": "21:00",
+    "arrivalTime": "17:00",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "QF127",
+    "company": "Air New Zealand",
+    "logo": "https://example.com/logos/air-new-zealand.png",
+    "departureCity": "Sydney Kingsford Smith - SYD",
+    "arrivalCity": "Los Angeles International - LAX",
+    "departureTime": "21:45",
+    "arrivalTime": "17:30",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "QF127",
+    "company": "United Airlines",
+    "logo": "https://example.com/logos/united.png",
+    "departureCity": "Sydney Kingsford Smith - SYD",
+    "arrivalCity": "Los Angeles International - LAX",
+    "departureTime": "22:30",
+    "arrivalTime": "18:15",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "QF127",
+    "company": "American Airlines",
+    "logo": "https://example.com/logos/american-airlines.png",
+    "departureCity": "Sydney Kingsford Smith - SYD",
+    "arrivalCity": "Los Angeles International - LAX",
+    "departureTime": "23:15",
+    "arrivalTime": "19:00",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "QF127",
+    "company": "Delta Airlines",
+    "logo": "https://example.com/logos/delta.png",
+    "departureCity": "Sydney Kingsford Smith - SYD",
+    "arrivalCity": "Los Angeles International - LAX",
+    "departureTime": "00:00",
+    "arrivalTime": "19:45",
+    "classType": "Economy"
+  },
+
+  {
+    "flight_number": "UA872",
+    "company": "United Airlines",
+    "logo": "https://example.com/logos/united-airlines.png",
+    "departureCity": "Chicago O'Hare - ORD",
+    "arrivalCity": "London Heathrow - LHR",
+    "departureTime": "06:30",
+    "arrivalTime": "19:00",
+    "classType": "First Class"
+  },
+  {
+    "flight_number": "UA872",
+    "company": "United Airlines",
+    "logo": "https://example.com/logos/united-airlines.png",
+    "departureCity": "Chicago O'Hare - ORD",
+    "arrivalCity": "London Heathrow - LHR",
+    "departureTime": "08:00",
+    "arrivalTime": "20:30",
+    "classType": "First Class"
+  },
+  {
+    "flight_number": "UA872",
+    "company": "United Airlines",
+    "logo": "https://example.com/logos/united-airlines.png",
+    "departureCity": "Chicago O'Hare - ORD",
+    "arrivalCity": "London Heathrow - LHR",
+    "departureTime": "10:30",
+    "arrivalTime": "22:00",
+    "classType": "First Class"
+  },
+  {
+    "flight_number": "UA872",
+    "company": "United Airlines",
+    "logo": "https://example.com/logos/united-airlines.png",
+    "departureCity": "Chicago O'Hare - ORD",
+    "arrivalCity": "London Heathrow - LHR",
+    "departureTime": "12:00",
+    "arrivalTime": "23:30",
+    "classType": "First Class"
+  },
+  {
+    "flight_number": "UA872",
+    "company": "United Airlines",
+    "logo": "https://example.com/logos/united-airlines.png",
+    "departureCity": "Chicago O'Hare - ORD",
+    "arrivalCity": "London Heathrow - LHR",
+    "departureTime": "14:30",
+    "arrivalTime": "01:00",
+    "classType": "First Class"
+  },
+
+  {
+    "flight_number": "AF764",
+    "company": "Air France",
+    "logo": "https://example.com/logos/air-france.png",
+    "departureCity": "Paris Charles de Gaulle - CDG",
+    "arrivalCity": "Los Angeles International - LAX",
+    "departureTime": "08:00",
+    "arrivalTime": "12:15",
+    "classType": "Business"
+  },
+  {
+    "flight_number": "AF764",
+    "company": "Air France",
+    "logo": "https://example.com/logos/air-france.png",
+    "departureCity": "Paris Charles de Gaulle - CDG",
+    "arrivalCity": "Los Angeles International - LAX",
+    "departureTime": "09:30",
+    "arrivalTime": "14:00",
+    "classType": "Business"
+  },
+  {
+    "flight_number": "AF764",
+    "company": "Air France",
+    "logo": "https://example.com/logos/air-france.png",
+    "departureCity": "Paris Charles de Gaulle - CDG",
+    "arrivalCity": "Los Angeles International - LAX",
+    "departureTime": "11:00",
+    "arrivalTime": "15:30",
+    "classType": "Business"
+  },
+  {
+    "flight_number": "AF764",
+    "company": "Air France",
+    "logo": "https://example.com/logos/air-france.png",
+    "departureCity": "Paris Charles de Gaulle - CDG",
+    "arrivalCity": "Los Angeles International - LAX",
+    "departureTime": "12:30",
+    "arrivalTime": "17:00",
+    "classType": "Business"
+  },
+  {
+    "flight_number": "AF764",
+    "company": "Air France",
+    "logo": "https://example.com/logos/air-france.png",
+    "departureCity": "Paris Charles de Gaulle - CDG",
+    "arrivalCity": "Los Angeles International - LAX",
+    "departureTime": "14:00",
+    "arrivalTime": "18:30",
+    "classType": "Business"
+  },
+
+  {
+    "flight_number": "KL902",
+    "company": "KLM Royal Dutch Airlines",
+    "logo": "https://example.com/logos/klm.png",
+    "departureCity": "Amsterdam Schiphol Airport - AMS",
+    "arrivalCity": "Atlanta Hartsfield - ATL",
+    "departureTime": "09:15",
+    "arrivalTime": "13:30",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "KL902",
+    "company": "KLM Royal Dutch Airlines",
+    "logo": "https://example.com/logos/klm.png",
+    "departureCity": "Amsterdam Schiphol Airport - AMS",
+    "arrivalCity": "Atlanta Hartsfield - ATL",
+    "departureTime": "10:00",
+    "arrivalTime": "14:30",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "KL902",
+    "company": "KLM Royal Dutch Airlines",
+    "logo": "https://example.com/logos/klm.png",
+    "departureCity": "Amsterdam Schiphol Airport - AMS",
+    "arrivalCity": "Atlanta Hartsfield - ATL",
+    "departureTime": "11:30",
+    "arrivalTime": "15:45",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "KL902",
+    "company": "KLM Royal Dutch Airlines",
+    "logo": "https://example.com/logos/klm.png",
+    "departureCity": "Amsterdam Schiphol Airport - AMS",
+    "arrivalCity": "Atlanta Hartsfield - ATL",
+    "departureTime": "13:00",
+    "arrivalTime": "17:15",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "KL902",
+    "company": "KLM Royal Dutch Airlines",
+    "logo": "https://example.com/logos/klm.png",
+    "departureCity": "Amsterdam Schiphol Airport - AMS",
+    "arrivalCity": "Atlanta Hartsfield - ATL",
+    "departureTime": "14:30",
+    "arrivalTime": "18:45",
+    "classType": "Economy"
+  },
+
+  {
+    "flight_number": "AZ625",
+    "company": "Alitalia",
+    "logo": "https://example.com/logos/alitalia.png",
+    "departureCity": "Rome Fiumicino - FCO",
+    "arrivalCity": "New York John F. Kennedy - JFK",
+    "departureTime": "10:45",
+    "arrivalTime": "13:30",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "AZ625",
+    "company": "Alitalia",
+    "logo": "https://example.com/logos/alitalia.png",
+    "departureCity": "Rome Fiumicino - FCO",
+    "arrivalCity": "New York John F. Kennedy - JFK",
+    "departureTime": "12:15",
+    "arrivalTime": "15:00",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "AZ625",
+    "company": "Alitalia",
+    "logo": "https://example.com/logos/alitalia.png",
+    "departureCity": "Rome Fiumicino - FCO",
+    "arrivalCity": "New York John F. Kennedy - JFK",
+    "departureTime": "13:45",
+    "arrivalTime": "16:30",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "AZ625",
+    "company": "Alitalia",
+    "logo": "https://example.com/logos/alitalia.png",
+    "departureCity": "Rome Fiumicino - FCO",
+    "arrivalCity": "New York John F. Kennedy - JFK",
+    "departureTime": "15:15",
+    "arrivalTime": "18:00",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "AZ625",
+    "company": "Alitalia",
+    "logo": "https://example.com/logos/alitalia.png",
+    "departureCity": "Rome Fiumicino - FCO",
+    "arrivalCity": "New York John F. Kennedy - JFK",
+    "departureTime": "16:45",
+    "arrivalTime": "19:30",
+    "classType": "Economy"
+  },
+
+  {
+    "flight_number": "AC851",
+    "company": "Air Canada",
+    "logo": "https://example.com/logos/air-canada.png",
+    "departureCity": "Toronto Pearson - YYZ",
+    "arrivalCity": "Vancouver International - YVR",
+    "departureTime": "11:00",
+    "arrivalTime": "13:45",
+    "classType": "Business"
+  },
+  {
+    "flight_number": "AC851",
+    "company": "Air Canada",
+    "logo": "https://example.com/logos/air-canada.png",
+    "departureCity": "Toronto Pearson - YYZ",
+    "arrivalCity": "Vancouver International - YVR",
+    "departureTime": "12:30",
+    "arrivalTime": "15:15",
+    "classType": "Business"
+  },
+  {
+    "flight_number": "AC851",
+    "company": "Air Canada",
+    "logo": "https://example.com/logos/air-canada.png",
+    "departureCity": "Toronto Pearson - YYZ",
+    "arrivalCity": "Vancouver International - YVR",
+    "departureTime": "14:00",
+    "arrivalTime": "16:45",
+    "classType": "Business"
+  },
+  {
+    "flight_number": "AC851",
+    "company": "Air Canada",
+    "logo": "https://example.com/logos/air-canada.png",
+    "departureCity": "Toronto Pearson - YYZ",
+    "arrivalCity": "Vancouver International - YVR",
+    "departureTime": "15:30",
+    "arrivalTime": "18:15",
+    "classType": "Business"
+  },
+  {
+    "flight_number": "AC851",
+    "company": "Air Canada",
+    "logo": "https://example.com/logos/air-canada.png",
+    "departureCity": "Toronto Pearson - YYZ",
+    "arrivalCity": "Vancouver International - YVR",
+    "departureTime": "17:00",
+    "arrivalTime": "19:45",
+    "classType": "Business"
+  },
+
+  {
+    "flight_number": "FI620",
+    "company": "Icelandair",
+    "logo": "https://example.com/logos/icelandair.png",
+    "departureCity": "Reykjavik Keflavik - KEF",
+    "arrivalCity": "Boston Logan International - BOS",
+    "departureTime": "12:00",
+    "arrivalTime": "14:15",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "FI620",
+    "company": "Icelandair",
+    "logo": "https://example.com/logos/icelandair.png",
+    "departureCity": "Reykjavik Keflavik - KEF",
+    "arrivalCity": "Boston Logan International - BOS",
+    "departureTime": "13:30",
+    "arrivalTime": "15:45",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "FI620",
+    "company": "Icelandair",
+    "logo": "https://example.com/logos/icelandair.png",
+    "departureCity": "Reykjavik Keflavik - KEF",
+    "arrivalCity": "Boston Logan International - BOS",
+    "departureTime": "15:00",
+    "arrivalTime": "17:15",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "FI620",
+    "company": "Icelandair",
+    "logo": "https://example.com/logos/icelandair.png",
+    "departureCity": "Reykjavik Keflavik - KEF",
+    "arrivalCity": "Boston Logan International - BOS",
+    "departureTime": "16:30",
+    "arrivalTime": "18:45",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "FI620",
+    "company": "Icelandair",
+    "logo": "https://example.com/logos/icelandair.png",
+    "departureCity": "Reykjavik Keflavik - KEF",
+    "arrivalCity": "Boston Logan International - BOS",
+    "departureTime": "18:00",
+    "arrivalTime": "20:15",
+    "classType": "Economy"
+  },
+
+  {
+    "flight_number": "NZ1",
+    "company": "Air New Zealand",
+    "logo": "https://example.com/logos/air-new-zealand.png",
+    "departureCity": "Auckland International - AKL",
+    "arrivalCity": "Los Angeles International - LAX",
+    "departureTime": "13:00",
+    "arrivalTime": "19:00",
+    "classType": "First Class"
+  },
+  {
+    "flight_number": "TK100",
+    "company": "Turkish Airlines",
+    "logo": "https://example.com/logos/turkish-airlines.png",
+    "departureCity": "Istanbul Airport - IST",
+    "arrivalCity": "Chicago O'Hare - ORD",
+    "departureTime": "14:30",
+    "arrivalTime": "16:30",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "VY1546",
+    "company": "Vueling Airlines",
+    "logo": "https://example.com/logos/vueling.png",
+    "departureCity": "Barcelona El Prat - BCN",
+    "arrivalCity": "Paris Charles de Gaulle - CDG",
+    "departureTime": "15:30",
+    "arrivalTime": "16:45",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "LM314",
+    "company": "Loganair",
+    "logo": "https://example.com/logos/loganair.png",
+    "departureCity": "Edinburgh Airport - EDI",
+    "arrivalCity": "London Heathrow - LHR",
+    "departureTime": "16:00",
+    "arrivalTime": "17:30",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "AF130",
+    "company": "Air France",
+    "logo": "https://example.com/logos/air-france.png",
+    "departureCity": "Paris Charles de Gaulle - CDG",
+    "arrivalCity": "Sydney Kingsford Smith - SYD",
+    "departureTime": "17:00",
+    "arrivalTime": "19:30",
+    "classType": "Business"
+  },
+
+  {
+    "flight_number": "MS85",
+    "company": "EgyptAir",
+    "logo": "https://example.com/logos/egyptair.png",
+    "departureCity": "Cairo International - CAI",
+    "arrivalCity": "New York John F. Kennedy - JFK",
+    "departureTime": "18:45",
+    "arrivalTime": "22:00",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "RO235",
+    "company": "Tarom",
+    "logo": "https://example.com/logos/tarom.png",
+    "departureCity": "Bucharest Henri Coandă - OTP",
+    "arrivalCity": "London Heathrow - LHR",
+    "departureTime": "19:10",
+    "arrivalTime": "20:40",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "I5524",
+    "company": "IndiGo",
+    "logo": "https://example.com/logos/indigo.png",
+    "departureCity": "Mumbai Chhatrapati Shivaji - BOM",
+    "arrivalCity": "New Delhi Indira Gandhi - DEL",
+    "departureTime": "20:00",
+    "arrivalTime": "22:00",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "W6311",
+    "company": "Wizz Air",
+    "logo": "https://example.com/logos/wizz-air.png",
+    "departureCity": "Budapest Liszt Ferenc - BUD",
+    "arrivalCity": "London Luton Airport - LTN",
+    "departureTime": "21:00",
+    "arrivalTime": "22:30",
+    "classType": "Economy"
+  },
+  {
+    "flight_number": "SK908",
+    "company": "SAS Scandinavian Airlines",
+    "logo": "https://example.com/logos/sas.png",
+    "departureCity": "Copenhagen Kastrup - CPH",
+    "arrivalCity": "New York John F. Kennedy - JFK",
+    "departureTime": "22:30",
+    "arrivalTime": "23:45",
+    "classType": "Business"
+  }
+]
+
+
