@@ -48,7 +48,7 @@ const Home = () => {
   return (
     <div
     ref={searchFormRef}
-      className="w-screen flex flex-col items-center justify-center gap-4 h-[80vh] bg-cover bg-center"
+      className="w-screen flex flex-col items-center justify-center gap-12 h-[80vh] bg-cover bg-center"
     >
       <div  className="flex flex-col items-start justify-start w-[90vw] gap-2">
         <h2 className="text-4xl lg:text-8xl font-black mb-4 opensans text-left z-10 text-white">
